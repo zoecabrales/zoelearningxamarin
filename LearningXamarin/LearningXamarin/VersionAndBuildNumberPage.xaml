@@ -1,0 +1,36 @@
+﻿
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"               
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:VersionAndBuildNumber" 
+             x:Class="VersionAndBuildNumber.VersionAndBuildNumberPage"
+             Title="Version and Build"
+             BackgroundColor="White">
+
+    <StackLayout VerticalOptions="CenterAndExpand" 
+                 HorizontalOptions="CenterAndExpand" 
+                 Spacing="40">
+        <StackLayout>
+            <Label Text="Version Number:" 
+                   TextColor="Black" 
+                   FontAttributes="None" 
+                   FontSize="25" />
+
+            <Label x:Name="lblVersionNumber" 
+                   TextColor="Black" 
+                   FontAttributes="Italic" 
+                   FontSize="25" />
+        </StackLayout>
+        
+        <StackLayout>
+            <Label Text="Build Number:" 
+                   FontSize="25" 
+                   TextColor="Black" 
+                   FontAttributes="None" />
+
+            <Label x:Name="lblBuildNumber" 
+                   TextColor="Black" 
+                   FontAttributes="Italic" 
+                   FontSize="25" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>  

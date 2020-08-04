@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LearningXamarin.Page4"
+             Title="Stacklayout - Sample">
+    <ContentPage.Content>
+        <StackLayout
+            WidthRequest="200"
+            HeightRequest="50"           
+            Orientation="Horizontal"
+            HorizontalOptions="CenterAndExpand"          
+            BackgroundColor="Pink"
+            VerticalOptions="Start">
+
+            <BoxView
+                BackgroundColor="HotPink"
+                CornerRadius="120"
+                WidthRequest="50"
+                HeightRequest="50"
+                VerticalOptions="Start"
+                HorizontalOptions="Start"/>
+
+            <StackLayout
+
+                Orientation="Vertical"
+                Spacing="0">
+
+                <Label 
+                    Text="Title Text"
+                    BackgroundColor="Orange"
+                    HeightRequest="25"
+                    WidthRequest="150"/>
+
+                <Label
+                    Text="Description Text"
+                    BackgroundColor="LightGreen"
+                    HeightRequest="25"/>
+                
+            </StackLayout>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

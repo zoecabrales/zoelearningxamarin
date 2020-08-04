@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7pze5HLxU39k0RIGhA1KexNBL1o8D6P79Zij5S7vNsllMQjkdJNa1QQ9AnYCmhEL7UHsMwmBxtzWBY9aE8/7Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zoeboie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\xamarin.forms\\4.7.0.1239\\xamarin.forms.4.7.0.1239.nupkg.sha512"
+  ],
+  "logs": []
+}

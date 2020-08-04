@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LearningXamarin.Page5"
+             Padding="20,5,20,10"
+             BackgroundColor="Aqua" 
+             Title="Grid">
+    <ContentPage.Content>
+
+        <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+            <Button
+                Text="Click Me"
+                BackgroundColor="Yellow"
+                VerticalOptions="CenterAndExpand"
+                Grid.Row="0"
+                Grid.ColumnSpan="2" 
+                Clicked="Button_Clicked"/>
+
+
+            <BoxView
+                Opacity=".90"
+                BackgroundColor="DeepSkyBlue"
+                CornerRadius="120"
+                WidthRequest="190"
+                HeightRequest="190"
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"/>
+
+            <BoxView
+                Opacity=".40"                
+                BackgroundColor="DarkBlue"
+                CornerRadius="130"
+                WidthRequest="130"
+                HeightRequest="130"
+                Grid.Row="1"                
+                Grid.ColumnSpan="2"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="CenterAndExpand"/>
+
+           <BoxView
+                Opacity=".40"                
+                BackgroundColor="Blue"
+                CornerRadius="80"
+                WidthRequest="70"
+                HeightRequest="70"
+                Grid.Row="1"                
+                Grid.ColumnSpan="2"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="CenterAndExpand"/>
+
+            <Label
+                x:Name="label"
+                Text="I am a Xamarin Developer"
+                Margin="0,30,0,0"
+                VerticalOptions="Center"
+                HorizontalOptions="CenterAndExpand"                                
+                Grid.RowSpan="1"
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                />
+
+            <BoxView 
+                BackgroundColor="Blue" 
+                Grid.Row="3" 
+                Grid.Column="0"/>
+            
+            <BoxView 
+                BackgroundColor="Red" 
+                Grid.Row="3" 
+                Grid.Column="1"/>
+            
+            <BoxView 
+                BackgroundColor="Yellow" 
+                Grid.Row="4" 
+                Grid.Column="0"/>
+
+            <BoxView 
+                BackgroundColor="White" 
+                Grid.Row="4" 
+                Grid.Column="1"/>
+
+            
+
+        </Grid>                 
+    </ContentPage.Content>
+</ContentPage>
