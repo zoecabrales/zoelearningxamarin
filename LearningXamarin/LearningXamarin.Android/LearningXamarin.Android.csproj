@@ -71,7 +71,6 @@
   <ItemGroup>
     <Compile Include="EntryAndroidEffect.cs" />
     <Compile Include="MainActivity.cs" />
-    <Compile Include="PlatformEffect.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VersionAndBuild_Android.cs" />

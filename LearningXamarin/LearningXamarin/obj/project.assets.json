@@ -635,11 +635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
       "projectName": "LearningXamarin",
-      "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
+      "projectPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
       "packagesPath": "C:\\Users\\zoeboie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\obj\\",
+      "outputPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
