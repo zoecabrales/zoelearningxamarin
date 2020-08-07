@@ -1937,11 +1937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
       "projectName": "LearningXamarin.Android",
-      "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
+      "projectPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\zoeboie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\obj\\",
+      "outputPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1962,8 +1962,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
-              "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj"
+            "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
+              "projectPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj"
             }
           }
         }

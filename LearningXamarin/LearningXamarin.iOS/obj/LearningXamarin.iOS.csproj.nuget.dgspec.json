@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj": {}
+    "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj": {
+    "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
         "projectName": "LearningXamarin.iOS",
-        "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
+        "projectPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
         "packagesPath": "C:\\Users\\zoeboie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\obj\\",
+        "outputPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
-                "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj"
+              "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
+                "projectPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
+    "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
+        "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
         "projectName": "LearningXamarin",
-        "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
+        "projectPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj",
         "packagesPath": "C:\\Users\\zoeboie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\obj\\",
+        "outputPath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

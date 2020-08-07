@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GhoVS2a23/G//PECNq6F/OyNjlzMkEAHEADpcsciKjMdMAvi86P0jOoZgqP/NI+d739Dp91qsgzNENhnNg0/8A==",
+  "dgSpecHash": "jI5e5cYSJ0E+TdXzs2MM/J2qn+IMmsfl1ycRozPlgR1AJ+ueZfBMiYfWwXPTd5py6DnnZsCKix4FeBP2Ynl5xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
+  "projectFilePath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

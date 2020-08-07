@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tr2SS5+AgDbXzm/6o6ZjApMA09j4OPG8gZOl7xjjb/j6pbDXSJkxdXp3C/gS8QFK7WbFsldFGTg46EEkY0Y9ww==",
+  "dgSpecHash": "23vds76S4DEqlqB1oqka5D7HMpofn33R0tjmcKcVQqT/70+blrQ3xcfLRb+oiQpC1hRgicY7KEhSghDaENkFqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
+  "projectFilePath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zoeboie\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\zoeboie\\.nuget\\packages\\xamarin.forms\\4.7.0.1239\\xamarin.forms.4.7.0.1239.nupkg.sha512"
