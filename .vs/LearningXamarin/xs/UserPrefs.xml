@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F169CA2E-0C03-4AF5-B3BE-82D60A575418}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearningXamarin/LearningXamarin/PhoneNum.xaml">
+    <Files>
+      <File FileName="LearningXamarin/LearningXamarin.Android/EntryAndroidEffect.cs" Line="29" Column="10" />
+      <File FileName="LearningXamarin/LearningXamarin/Effects/EntryEffect.cs" Line="1" Column="1" />
+      <File FileName="LearningXamarin/LearningXamarin/PhoneNum.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearningXamarin" expanded="True">
+            <Node name="LearningXamarin" expanded="True">
+              <Node name="Effects" expanded="True" />
+              <Node name="PhoneNum.xaml" selected="True" />
+            </Node>
+            <Node name="LearningXamarin.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LearningXamarin.Android PreferredExecutionTarget="Android.pixel_2_api_29_2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.Android/EntryAndroidEffect.cs" relfile="LearningXamarin/LearningXamarin.Android/EntryAndroidEffect.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

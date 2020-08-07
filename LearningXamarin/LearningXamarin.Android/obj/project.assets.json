@@ -1931,39 +1931,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zoeboie\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/macbookpro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
+      "projectUniqueName": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.Android/LearningXamarin.Android.csproj",
       "projectName": "LearningXamarin.Android",
-      "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\LearningXamarin.Android.csproj",
-      "packagesPath": "C:\\Users\\zoeboie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.Android\\obj\\",
+      "projectPath": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.Android/LearningXamarin.Android.csproj",
+      "packagesPath": "/Users/macbookpro/.nuget/packages/",
+      "outputPath": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zoeboie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/macbookpro/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
-              "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj"
+            "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/LearningXamarin.csproj": {
+              "projectPath": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/LearningXamarin.csproj"
             }
           }
         }

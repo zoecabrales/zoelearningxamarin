@@ -1,41 +1,62 @@
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.csprojAssemblyReference.cache
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\LearningXamarin.deps.json
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\LearningXamarin.dll
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\ref\LearningXamarin.dll
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\LearningXamarin.pdb
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page1.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.AssemblyInfoInputs.cache
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.AssemblyInfo.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.csproj.CoreCompileInputs.cache
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.dll
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\ref\LearningXamarin.dll
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.pdb
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page2.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page3.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page4.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page5.xaml.g.cs
-C:\Users\zoeboie\source\repos\LearningXamarin\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page6.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\LearningXamarin.deps.json
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\LearningXamarin.dll
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\ref\LearningXamarin.dll
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\bin\Debug\netstandard2.0\LearningXamarin.pdb
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page1.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.AssemblyInfoInputs.cache
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.AssemblyInfo.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.csproj.CoreCompileInputs.cache
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.dll
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\ref\LearningXamarin.dll
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.pdb
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Dependency.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Grid Mixed.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Page8.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\Stacklayout - LayoutOptions.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\StackLayout Sample.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\StackLayout-Basic.xaml.g.cs
-C:\Users\zoeboie\Desktop\RideHero\zoelearningxamarin-master\zoelearningxamarin-master\LearningXamarin\LearningXamarin\obj\Debug\netstandard2.0\LearningXamarin.csprojAssemblyReference.cache
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.csprojAssemblyReference.cache
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.deps.json
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.dll
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/ref/LearningXamarin.dll
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.pdb
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.AssemblyInfoInputs.cache
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.AssemblyInfo.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.csproj.CoreCompileInputs.cache
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.dll
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/ref/LearningXamarin.dll
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.pdb
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page2.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page3.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page4.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page5.xaml.g.cs
+C:/Users/zoeboie/source/repos/LearningXamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page6.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.deps.json
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.dll
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/ref/LearningXamarin.dll
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.pdb
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.AssemblyInfoInputs.cache
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.AssemblyInfo.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.csproj.CoreCompileInputs.cache
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.dll
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/ref/LearningXamarin.dll
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.pdb
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Dependency.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Grid Mixed.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page8.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Stacklayout - LayoutOptions.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/StackLayout Sample.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/StackLayout-Basic.xaml.g.cs
+C:/Users/zoeboie/Desktop/RideHero/zoelearningxamarin-master/zoelearningxamarin-master/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.deps.json
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.dll
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/ref/LearningXamarin.dll
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/bin/Debug/netstandard2.0/LearningXamarin.pdb
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.csprojAssemblyReference.cache
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Grid Mixed.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/PhoneNum.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/Stacklayout - LayoutOptions.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/StackLayout Sample.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/StackLayout-Basic.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/VersionAndBuildNumberPage.xaml.g.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.AssemblyInfo.cs
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.dll
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/ref/LearningXamarin.dll
+/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/obj/Debug/netstandard2.0/LearningXamarin.pdb

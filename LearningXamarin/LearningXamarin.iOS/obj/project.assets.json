@@ -979,39 +979,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zoeboie\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/macbookpro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
+      "projectUniqueName": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.iOS/LearningXamarin.iOS.csproj",
       "projectName": "LearningXamarin.iOS",
-      "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
-      "packagesPath": "C:\\Users\\zoeboie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin.iOS\\obj\\",
+      "projectPath": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.iOS/LearningXamarin.iOS.csproj",
+      "packagesPath": "/Users/macbookpro/.nuget/packages/",
+      "outputPath": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zoeboie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/macbookpro/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj": {
-              "projectPath": "C:\\Users\\zoeboie\\Desktop\\RideHero\\zoelearningxamarin-master\\zoelearningxamarin-master\\LearningXamarin\\LearningXamarin\\LearningXamarin.csproj"
+            "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/LearningXamarin.csproj": {
+              "projectPath": "/Users/macbookpro/Projects/zoelearningxamarin/LearningXamarin/LearningXamarin/LearningXamarin.csproj"
             }
           }
         }

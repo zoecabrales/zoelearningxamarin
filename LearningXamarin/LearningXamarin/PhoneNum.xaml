@@ -4,19 +4,22 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:behavior="clr-namespace:LearningXamarin.Behaviors"
+             xmlns:effects="clr-namespace:LearningXamarin.Effects"
              mc:Ignorable="d"
              x:Class="LearningXamarin.Page8"
-             Title="Phone Format">
-    
+             Title="Phone Format">    
     <ContentPage.Content>
         <StackLayout Padding="10"
                      Margin="20">
             <Entry Text="+63"
                    IsEnabled="True"
                    Keyboard="Telephone">
-            <Entry.Behaviors>
-                <behavior:MaskedBehavior Mask="(XXX) XXX-XXXX" />
-            </Entry.Behaviors>
+                <Entry.Behaviors>
+                    <behavior:MaskedBehavior Mask="(XXX) XXX-XXXX" />
+                </Entry.Behaviors>
+                <Entry.Effects>
+                    <effects:EntryEffect/>
+                </Entry.Effects>
             </Entry>
         </StackLayout>
     </ContentPage.Content>

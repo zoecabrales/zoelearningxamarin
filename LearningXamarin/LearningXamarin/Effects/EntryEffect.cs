@@ -9,7 +9,6 @@ namespace LearningXamarin.Effects
     {
         public EntryEffect() : base($"MyCompany.{nameof(EntryEffect)}")
         {
-
         }
     }
 }
