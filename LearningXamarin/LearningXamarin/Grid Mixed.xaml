@@ -10,7 +10,7 @@
              Title="Grid">
     <ContentPage.Content>
 
-        <Grid >
+        <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
                 <RowDefinition Height="*"/>

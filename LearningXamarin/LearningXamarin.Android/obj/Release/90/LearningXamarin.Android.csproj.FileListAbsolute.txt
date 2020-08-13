@@ -96,6 +96,16 @@ C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Andr
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon11.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon12.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon13.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon14.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon15.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon16.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon17.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon18.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon19.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon20.png
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\uploadflags.txt
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\resolvedassemblies.hash
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\link.flag
