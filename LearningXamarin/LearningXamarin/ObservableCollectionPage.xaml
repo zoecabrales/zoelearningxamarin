@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LearningXamarin.ObservableCollection"
+             BackgroundColor="Beige"
+             Title="Back to Main">
+
+    <ScrollView Orientation="Horizontal"
+                VerticalScrollBarVisibility="Always">
+    <StackLayout BindableLayout.ItemsSource="{Binding Users}" 
+                 Orientation="Horizontal" 
+                 HorizontalOptions="StartAndExpand"
+                 VerticalOptions="Start"
+                 Margin="20"
+                 Spacing="10">
+        <BindableLayout.ItemTemplate>
+            <DataTemplate>
+                    <Grid>
+                        <Image Source="{Binding ImageUrl}"
+                               VerticalOptions="Start"
+                               HeightRequest="100"
+                               WidthRequest="100"/>
+                        <Label Text="{Binding Name}"
+                               FontSize="Medium"
+                               Margin="10,100,10,0"
+                               VerticalTextAlignment="Start" 
+                               HorizontalTextAlignment="Center"/>
+                    </Grid>
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
+        </StackLayout>
+     </ScrollView>
+</ContentPage>

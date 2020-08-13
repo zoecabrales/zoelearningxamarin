@@ -26,10 +26,7 @@
                 <Label 
                     Text="Label 3" 
                     BackgroundColor="Green" 
-                    FontSize="Small"                   >
-
-                </Label>
-
+                    FontSize="Small"/>
             </StackLayout>
             
             <StackLayout                       
@@ -76,7 +73,7 @@
                 </Label>
             </StackLayout>
 
-            
+
             <StackLayout                
                 Orientation="Horizontal"
                 BackgroundColor="Red"
@@ -99,8 +96,7 @@
                     BackgroundColor="Green" 
                     FontSize="Small"/>
             </StackLayout>
-
-
+            
             <StackLayout                
                     Orientation="Horizontal"
                     BackgroundColor="Red"
@@ -122,9 +118,7 @@
                     Text="Label 3" 
                     HorizontalOptions="FillAndExpand" 
                     BackgroundColor="Green" 
-                    FontSize="Small">
-
-                </Label>
+                    FontSize="Small"/>
             </StackLayout>
         </StackLayout>    
    </ContentPage.Content>

@@ -62,8 +62,13 @@
                     VerticalOptions="Center" 
                     BackgroundColor="DarkGray"
                     Clicked="Button_Clicked_4"/>
-            
-            
+
+            <Button Text="Observable Collection"
+                    HorizontalOptions="FillAndExpand" 
+                    VerticalOptions="Center"
+                    BackgroundColor="DarkGray"
+                    Clicked="Button_Clicked_6"/>
+
         </StackLayout>
   </ContentPage.Content>
 </ContentPage>

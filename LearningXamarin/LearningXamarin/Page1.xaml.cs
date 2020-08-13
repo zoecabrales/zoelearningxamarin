@@ -47,5 +47,10 @@ namespace LearningXamarin
         {
             Navigation.PushAsync(new VersionAndBuildNumberPage());
         }
+
+        private void Button_Clicked_6(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new ObservableCollection());
+        }
     }
 }
