@@ -7,49 +7,38 @@
              x:Class="LearningXamarin.Page1">
 
     <ContentPage.Content>
-        <StackLayout 
-             BackgroundColor="LightGray" >
+        <StackLayout BackgroundColor="White"
+                     Margin="10">
+           
+            <Label Text="Welcome to Xamarin Forms"
+                   Margin="20,20,0,0"
+                   VerticalOptions="Start"
+                   HorizontalOptions="Center"/>
 
-            <Label 
-             Text="Main Page" 
-             BackgroundColor="LightBlue" 
-             FontSize="Title" 
-             HeightRequest="70"/>
+            <Button Text="STACKLAYOUT - BASIC" 
+                    HorizontalOptions="FillAndExpand" 
+                    VerticalOptions="Center" 
+                    BackgroundColor="DarkGray" 
+                    Margin="0,80,0,0" 
+                    Clicked="Button_Clicked"/>
 
-            <Label
-             Text="Welcome to Xamarin Forms"
-             Margin="20,20,0,0"
-             VerticalOptions="Start"
-             HorizontalOptions="Center"/>
+            <Button Text="STACKLAYOUT - LAYOUT OPTIONS" 
+                    HorizontalOptions="FillAndExpand" 
+                    VerticalOptions="Center" 
+                    BackgroundColor="DarkGray"
+                    Clicked="Button_Clicked_1"/>
 
-            <Button 
-             Text="STACKLAYOUT - BASIC" 
-             HorizontalOptions="FillAndExpand" 
-             VerticalOptions="Center" 
-             BackgroundColor="DarkGray" 
-             Margin="0,80,0,0" 
-             Clicked="Button_Clicked"/>
-
-            <Button 
-             Text="STACKLAYOUT - LAYOUT OPTIONS" 
-             HorizontalOptions="FillAndExpand" 
-             VerticalOptions="Center" 
-             BackgroundColor="DarkGray"
-             Clicked="Button_Clicked_1"/>
-
-            <Button 
-             Text="STACKLAYOUT - SAMPLE" 
-             HorizontalOptions="FillAndExpand" 
-             VerticalOptions="Center" 
-             BackgroundColor="DarkGray"
-             Clicked="Button_Clicked_2"/>
+            <Button Text="STACKLAYOUT - SAMPLE" 
+                    HorizontalOptions="FillAndExpand" 
+                    VerticalOptions="Center" 
+                    BackgroundColor="DarkGray"
+                    Clicked="Button_Clicked_2"/>
             
-            <Button 
-             Text="GRID MIXED" 
-             HorizontalOptions="FillAndExpand" 
-             VerticalOptions="Center" 
-             BackgroundColor="DarkGray"
-             Clicked="Button_Clicked_3"/>
+            <Button Text="GRID MIXED" 
+                    HorizontalOptions="FillAndExpand" 
+                    VerticalOptions="Center" 
+                    BackgroundColor="DarkGray"
+                    Clicked="Button_Clicked_3"/>
 
             <Button Text="Phone Number Entry"
                     HorizontalOptions="FillAndExpand" 
@@ -69,6 +58,11 @@
                     BackgroundColor="DarkGray"
                     Clicked="Button_Clicked_6"/>
 
+            <Button Text="Login Page"
+                    HorizontalOptions="FillAndExpand" 
+                    VerticalOptions="Center"
+                    BackgroundColor="DarkGray"
+                    Clicked="Button_Clicked_7"/>
         </StackLayout>
   </ContentPage.Content>
 </ContentPage>

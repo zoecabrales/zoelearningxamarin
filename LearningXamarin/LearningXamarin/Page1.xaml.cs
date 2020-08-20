@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using VersionAndBuildNumber;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xamarin.Essentials;
 
 namespace LearningXamarin
 {
@@ -20,7 +21,6 @@ namespace LearningXamarin
         private void Button_Clicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new Page2());
-
         }
 
         private void Button_Clicked_1(object sender, EventArgs e)
@@ -51,6 +51,11 @@ namespace LearningXamarin
         private void Button_Clicked_6(object sender, EventArgs e)
         {
             Navigation.PushAsync(new ObservableCollection());
+        }
+
+        private async void Button_Clicked_7(object sender, EventArgs e)
+        {
+           await Navigation.PushAsync(new LoginPage());
         }
     }
 }
