@@ -25,6 +25,7 @@ C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\bin\
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\bin\Release\netstandard2.0\LearningXamarin.pdb
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\App.xaml.g.cs
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\Grid Mixed.xaml.g.cs
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\LoginPage.xaml.g.cs
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\ObservableCollectionPage.xaml.g.cs
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\Page1.xaml.g.cs
@@ -40,4 +41,3 @@ C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\LearningXamarin.dll
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\ref\LearningXamarin.dll
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\LearningXamarin.pdb
-C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin\obj\Release\netstandard2.0\LearningXamarin.csprojAssemblyReference.cache

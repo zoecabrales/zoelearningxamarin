@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:magic="clr-namespace:MagicGradients;assembly=MagicGradients"
+             xmlns:effect="clr-namespace:LearningXamarin.Effects"
+             mc:Ignorable="d"
+             x:Class="LearningXamarin.LoginPage">
+    
+    <ContentPage.Content>
+        <Grid BackgroundColor="#237DF9"
+              RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <StackLayout Margin="6">
+                <magic:GradientView Grid.Row="0"
+                                    HeightRequest="795"
+                                    Grid.ColumnSpan="2"
+                                    VerticalOptions="Fill"
+                                    HorizontalOptions="Fill">
+                    <magic:GradientView.GradientSource>
+                        <magic:LinearGradient Angle="180">
+                            <magic:GradientStop Color="#4A00E0"
+                                                Offset="0"/>
+                            <magic:GradientStop Color="#396AFC" 
+                                                Offset="1"/>
+                        </magic:LinearGradient>
+                    </magic:GradientView.GradientSource>
+                </magic:GradientView>
+            </StackLayout>
+            <Image Margin="0,0"
+                   Source="logo.png"
+                   Grid.Row="0"
+                   Grid.ColumnSpan="1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"
+                   HeightRequest="600"
+                   WidthRequest="600"
+                   Aspect="AspectFill"/>
+            <Entry Placeholder="Login"
+                   PlaceholderColor="White"
+                   IsReadOnly="True"
+                   FontAttributes="Bold"   
+                   Margin="40,0,40,100"
+                   HeightRequest="60"
+                   Grid.Row="1"
+                   Grid.ColumnSpan="2"
+                   HorizontalOptions="Fill"
+                   HorizontalTextAlignment="Center"
+                   VerticalOptions="Center">
+            </Entry>
+            <Entry Placeholder="Password"
+                   IsReadOnly="False"
+                   PlaceholderColor="White"
+                   FontAttributes="Bold"
+                   HeightRequest="60"
+                   Margin="40,20,40,20"
+                   Grid.Row="1"
+                   Grid.ColumnSpan="2"
+                   HorizontalOptions="Fill"
+                   HorizontalTextAlignment="Center"
+                   VerticalOptions="Center">
+            </Entry>
+            <Button Margin="80,180,80,10"
+                    Text="SIGN IN"
+                    TextColor="White"
+                    BackgroundColor="#20e3b2"
+                    Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    CornerRadius="30"/>
+            <Label Margin="0,0,70,0"
+                   Text="Don't remember your password?"
+                   TextColor="White"                   
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"
+                   Grid.Row="2"
+                   Grid.ColumnSpan="2"/>
+            <Label Margin="288,0,0,0"
+                   Text="Reset it"
+                   TextColor="MediumAquamarine"
+                   Grid.Row="2"
+                   Grid.Column="0"/>
+            <Label Text="SIGN ME IN WITH FACEBOOK"
+                   TextColor="White"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   HorizontalOptions="Center"
+                   Margin="0,130,0,0"/>
+            <Entry Placeholder=""
+                   IsEnabled="False"
+                   Grid.Row="2"
+                   HeightRequest="5"
+                   Margin="40,0,220,197"/>
+            <Entry Placeholder=""
+                   IsEnabled="False"
+                   Grid.Row="2"
+                   HeightRequest="5"
+                   Margin="220,0,40,197"/>
+            <Label Text="OR"
+                   TextColor="LightGray"
+                   FontSize="Micro"
+                   Grid.Row="2"
+                   HeightRequest="10"
+                   Margin="195,72,0,0"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
