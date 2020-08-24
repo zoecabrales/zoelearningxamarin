@@ -57,5 +57,10 @@ namespace LearningXamarin
         {
            await Navigation.PushAsync(new LoginPage());
         }
+
+        private async void Button_Clicked_8(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new FlexLayoutPage());
+        }
     }
 }

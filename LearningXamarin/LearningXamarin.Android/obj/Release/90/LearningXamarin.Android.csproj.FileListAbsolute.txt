@@ -108,6 +108,7 @@ C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Andr
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\icon20.png
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\logo.png
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\or.png
+C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\res\drawable\xamlogo.png
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\uploadflags.txt
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\resolvedassemblies.hash
 C:\Users\zoeboie\Desktop\zoelearningxamarin\LearningXamarin\LearningXamarin.Android\obj\Release\90\android\assets\FormsViewGroup.dll
