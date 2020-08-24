@@ -139,32 +139,32 @@
 	.section	.rodata.map_aname.23,"aMS",@progbits,1
 	.type	.L.map_aname.23, @object
 .L.map_aname.23:
-	.asciz	"Xamarin.Android.Arch.Core.Runtime"
-	.size	.L.map_aname.23, 34
+	.asciz	"LearningXamarin.Android"
+	.size	.L.map_aname.23, 24
 
 	.section	.rodata.map_aname.24,"aMS",@progbits,1
 	.type	.L.map_aname.24, @object
 .L.map_aname.24:
-	.asciz	"Xamarin.Android.Arch.Lifecycle.LiveData"
-	.size	.L.map_aname.24, 40
+	.asciz	"Xamarin.Android.Arch.Core.Runtime"
+	.size	.L.map_aname.24, 34
 
 	.section	.rodata.map_aname.25,"aMS",@progbits,1
 	.type	.L.map_aname.25, @object
 .L.map_aname.25:
-	.asciz	"Xamarin.Android.Support.LocalBroadcastManager"
-	.size	.L.map_aname.25, 46
+	.asciz	"Xamarin.Android.Arch.Lifecycle.LiveData"
+	.size	.L.map_aname.25, 40
 
 	.section	.rodata.map_aname.26,"aMS",@progbits,1
 	.type	.L.map_aname.26, @object
 .L.map_aname.26:
-	.asciz	"Xamarin.Android.Support.Vector.Drawable"
-	.size	.L.map_aname.26, 40
+	.asciz	"Xamarin.Android.Support.LocalBroadcastManager"
+	.size	.L.map_aname.26, 46
 
 	.section	.rodata.map_aname.27,"aMS",@progbits,1
 	.type	.L.map_aname.27, @object
 .L.map_aname.27:
-	.asciz	"LearningXamarin.Android"
-	.size	.L.map_aname.27, 24
+	.asciz	"Xamarin.Android.Support.Vector.Drawable"
+	.size	.L.map_aname.27, 40
 
 	.section	.rodata.map_aname.28,"aMS",@progbits,1
 	.type	.L.map_aname.28, @object

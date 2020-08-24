@@ -497,6 +497,25 @@ map_modules:
 	/* java_map */
 	.long	0
 
+	/* module_uuid: e9d02a8f-17bc-46f5-9b7d-2c4e701d9209 */
+	.byte	0x8f, 0x2a, 0xd0, 0xe9, 0xbc, 0x17, 0xf5, 0x46, 0x9b, 0x7d, 0x2c, 0x4e, 0x70, 0x1d, 0x92, 0x09
+	/* entry_count */
+	.long	1
+	/* duplicate_count */
+	.long	0
+	/* map */
+	.long	module23_managed_to_java
+	/* duplicate_map */
+	.long	0
+	/* assembly_name: LearningXamarin.Android */
+	.long	.L.map_aname.23
+	/* image */
+	.long	0
+	/* java_name_width */
+	.long	0
+	/* java_map */
+	.long	0
+
 	/* module_uuid: 00eb5191-c0f6-43ad-b379-c0b2cfacd57a */
 	.byte	0x91, 0x51, 0xeb, 0x00, 0xf6, 0xc0, 0xad, 0x43, 0xb3, 0x79, 0xc0, 0xb2, 0xcf, 0xac, 0xd5, 0x7a
 	/* entry_count */
@@ -504,11 +523,11 @@ map_modules:
 	/* duplicate_count */
 	.long	1
 	/* map */
-	.long	module23_managed_to_java
+	.long	module24_managed_to_java
 	/* duplicate_map */
-	.long	module23_managed_to_java_duplicates
+	.long	module24_managed_to_java_duplicates
 	/* assembly_name: Xamarin.Android.Arch.Core.Runtime */
-	.long	.L.map_aname.23
+	.long	.L.map_aname.24
 	/* image */
 	.long	0
 	/* java_name_width */
@@ -523,11 +542,11 @@ map_modules:
 	/* duplicate_count */
 	.long	1
 	/* map */
-	.long	module24_managed_to_java
+	.long	module25_managed_to_java
 	/* duplicate_map */
-	.long	module24_managed_to_java_duplicates
+	.long	module25_managed_to_java_duplicates
 	/* assembly_name: Xamarin.Android.Arch.Lifecycle.LiveData */
-	.long	.L.map_aname.24
+	.long	.L.map_aname.25
 	/* image */
 	.long	0
 	/* java_name_width */
@@ -542,11 +561,11 @@ map_modules:
 	/* duplicate_count */
 	.long	0
 	/* map */
-	.long	module25_managed_to_java
+	.long	module26_managed_to_java
 	/* duplicate_map */
 	.long	0
 	/* assembly_name: Xamarin.Android.Support.LocalBroadcastManager */
-	.long	.L.map_aname.25
+	.long	.L.map_aname.26
 	/* image */
 	.long	0
 	/* java_name_width */
@@ -561,29 +580,10 @@ map_modules:
 	/* duplicate_count */
 	.long	1
 	/* map */
-	.long	module26_managed_to_java
-	/* duplicate_map */
-	.long	module26_managed_to_java_duplicates
-	/* assembly_name: Xamarin.Android.Support.Vector.Drawable */
-	.long	.L.map_aname.26
-	/* image */
-	.long	0
-	/* java_name_width */
-	.long	0
-	/* java_map */
-	.long	0
-
-	/* module_uuid: 7dd85ab6-45b0-4aa6-9f44-cc37f8da57dc */
-	.byte	0xb6, 0x5a, 0xd8, 0x7d, 0xb0, 0x45, 0xa6, 0x4a, 0x9f, 0x44, 0xcc, 0x37, 0xf8, 0xda, 0x57, 0xdc
-	/* entry_count */
-	.long	1
-	/* duplicate_count */
-	.long	0
-	/* map */
 	.long	module27_managed_to_java
 	/* duplicate_map */
-	.long	0
-	/* assembly_name: LearningXamarin.Android */
+	.long	module27_managed_to_java_duplicates
+	/* assembly_name: Xamarin.Android.Support.Vector.Drawable */
 	.long	.L.map_aname.27
 	/* image */
 	.long	0
@@ -3471,7 +3471,7 @@ map_java:
 
 	/* #287 */
 	/* module_index */
-	.long	23
+	.long	24
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
@@ -3480,7 +3480,7 @@ map_java:
 
 	/* #288 */
 	/* module_index */
-	.long	23
+	.long	24
 	/* type_token_id */
 	.long	33554436
 	/* java_name */
@@ -3489,7 +3489,7 @@ map_java:
 
 	/* #289 */
 	/* module_index */
-	.long	23
+	.long	24
 	/* type_token_id */
 	.long	33554437
 	/* java_name */
@@ -3561,7 +3561,7 @@ map_java:
 
 	/* #297 */
 	/* module_index */
-	.long	24
+	.long	25
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
@@ -3687,7 +3687,7 @@ map_java:
 
 	/* #311 */
 	/* module_index */
-	.long	24
+	.long	25
 	/* type_token_id */
 	.long	33554437
 	/* java_name */
@@ -3741,7 +3741,7 @@ map_java:
 
 	/* #317 */
 	/* module_index */
-	.long	24
+	.long	25
 	/* type_token_id */
 	.long	33554438
 	/* java_name */
@@ -22542,7 +22542,7 @@ map_java:
 
 	/* #2406 */
 	/* module_index */
-	.long	26
+	.long	27
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
@@ -22551,7 +22551,7 @@ map_java:
 
 	/* #2407 */
 	/* module_index */
-	.long	26
+	.long	27
 	/* type_token_id */
 	.long	33554437
 	/* java_name */
@@ -23928,7 +23928,7 @@ map_java:
 
 	/* #2560 */
 	/* module_index */
-	.long	25
+	.long	26
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
@@ -39327,7 +39327,7 @@ map_java:
 
 	/* #4271 */
 	/* module_index */
-	.long	27
+	.long	23
 	/* type_token_id */
 	.long	33554435
 	/* java_name */
