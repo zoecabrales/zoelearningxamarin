@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:magic="clr-namespace:MagicGradients;assembly=MagicGradients"
+             xmlns:effect="clr-namespace:LearningXamarin.Effects"
+             mc:Ignorable="d"
+             x:Class="LearningXamarin.LoginSuccessPage">
+    <Grid RowSpacing="0" ColumnSpacing="0" BackgroundColor="White"
+          HorizontalOptions="Fill" VerticalOptions="Fill">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <BoxView Grid.Row="1" Grid.RowSpan="2" VerticalOptions="Fill"
+                 HorizontalOptions="Fill" Color="LightBlue"/>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Fill" HorizontalOptions="Fill"
+                     BindableLayout.ItemsSource="{Binding Categories}"
+                     Grid.Row="1">
+            <BindableLayout.ItemTemplate>
+                <DataTemplate>
+                    <Button Text="{Binding Title}" HeightRequest="26" Padding="5,0,5,0" Margin="10"
+                            FontSize="10" BorderColor="DimGray" BorderWidth="0.9"
+                            CornerRadius="13" BackgroundColor="Transparent"
+                            VerticalOptions="Center" TextColor="White"
+                            HorizontalOptions="Start" Clicked="Button_Clicked"/>
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
+        </StackLayout>
+        <Label Text="Search Product"/>
+    </Grid>
+</ContentPage>
