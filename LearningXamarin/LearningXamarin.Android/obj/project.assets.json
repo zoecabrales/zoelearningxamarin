@@ -2226,6 +2226,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v9.0": [
       "LearningXamarin >= 1.0.0",
+      "MagicGradients >= 1.1.1",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.7.0.1239"
     ]
@@ -2272,6 +2273,10 @@
     "frameworks": {
       "monoandroid90": {
         "dependencies": {
+          "MagicGradients": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.5.3.2, )"

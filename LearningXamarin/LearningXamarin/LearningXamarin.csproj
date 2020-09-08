@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -19,55 +19,55 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="FlexLayoutPage.xaml">
+    <EmbeddedResource Update="View\LoginPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="LoginPage.xaml">
+    <EmbeddedResource Update="View\LoginSuccessPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="ObservableCollectionPage.xaml">
+    <EmbeddedResource Update="View\ObservableCollectionPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Page1.xaml">
+    <EmbeddedResource Update="View\Page1.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="StackLayout-Basic.xaml">
+    <EmbeddedResource Update="View\StackLayout-Basic.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Stacklayout - LayoutOptions.xaml">
+    <EmbeddedResource Update="View\Stacklayout - LayoutOptions.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="StackLayout Sample.xaml">
+    <EmbeddedResource Update="View\StackLayout Sample.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Grid Mixed.xaml">
+    <EmbeddedResource Update="View\Grid Mixed.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="PhoneNum.xaml">
+    <EmbeddedResource Update="View\PhoneNum.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="VersionAndBuildNumberPage.xaml">
+    <EmbeddedResource Update="View\VersionAndBuildNumberPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Grid Mixed.xaml.cs">
+    <Compile Update="View\Grid Mixed.xaml.cs">
       <DependentUpon>Grid Mixed.xaml</DependentUpon>
     </Compile>
-    <Compile Update="ObservableCollectionPage.xaml.cs">
+    <Compile Update="View\ObservableCollectionPage.xaml.cs">
       <DependentUpon>ObservableCollectionPage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="PhoneNum.xaml.cs">
+    <Compile Update="View\PhoneNum.xaml.cs">
       <DependentUpon>PhoneNum.xaml</DependentUpon>
     </Compile>
-    <Compile Update="StackLayout Sample.xaml.cs">
+    <Compile Update="View\StackLayout Sample.xaml.cs">
       <DependentUpon>StackLayout Sample.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Stacklayout - LayoutOptions.xaml.cs">
+    <Compile Update="View\Stacklayout - LayoutOptions.xaml.cs">
       <DependentUpon>Stacklayout - LayoutOptions.xaml</DependentUpon>
     </Compile>
-    <Compile Update="StackLayout-Basic.xaml.cs">
+    <Compile Update="View\StackLayout-Basic.xaml.cs">
       <DependentUpon>StackLayout-Basic.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
