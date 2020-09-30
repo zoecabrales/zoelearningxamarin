@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDOMy7zipPkxsF8QpU4Cf4IJoV6Udc5c/msvdBhxS3e32tcJhKwvgC6OTWH6GbRkpJcjczCyqdUM2v1A5BHENQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zoeboie\\Desktop\\zoelearningxamarin\\LearningXamarin\\LearningXamarin.iOS\\LearningXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zoeboie\\.nuget\\packages\\magicgradients\\1.1.1\\magicgradients.1.1.1.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\skiasharp\\1.68.1.1\\skiasharp.1.68.1.1.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\skiasharp.views\\1.68.1.1\\skiasharp.views.1.68.1.1.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\skiasharp.views.forms\\1.68.1.1\\skiasharp.views.forms.1.68.1.1.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\zoeboie\\.nuget\\packages\\xamarin.forms\\4.7.0.1239\\xamarin.forms.4.7.0.1239.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1269 to 4.7.0.1239. Reference the package directly from the project to select a different version. \r\n LearningXamarin.iOS -> LearningXamarin -> Xamarin.Forms (>= 4.8.0.1269) \r\n LearningXamarin.iOS -> Xamarin.Forms (>= 4.7.0.1239)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

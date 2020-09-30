@@ -45,20 +45,30 @@
                    HeightRequest="600"
                    WidthRequest="600"
                    Aspect="AspectFill"/>
-            <Entry x:Name="entLogin"
+            
+            <Entry x:Name="Login"
+                   Completed="Handle_Completed" 
+                   HeightRequest="46"
                    Placeholder="Login"
-                   ClearButtonVisibility="WhileEditing"
-                   PlaceholderColor="White"
-                   TextColor="White"
-                   FontAttributes="None"   
                    Margin="40,0,40,100"
-                   HeightRequest="60"
                    Grid.Row="1"
                    Grid.ColumnSpan="2"
                    HorizontalOptions="Fill"
-                   HorizontalTextAlignment="Center"
-                   VerticalOptions="Center"/>
-            <Entry x:Name="entPass"
+                   VerticalOptions="Center">
+            </Entry>
+            
+            <Label x:Name="LabelTitle"
+                   Grid.Row="1"
+                   Grid.ColumnSpan="1"
+                   HorizontalOptions="Fill"
+                   VerticalOptions="Center"
+                   Margin="40,0,40,100">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Handle_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+
+            <Entry x:Name="EntryPassword"
                    Placeholder="Password"
                    IsPassword="True"
                    TextColor="White"
@@ -69,8 +79,9 @@
                    Grid.Row="1"
                    Grid.ColumnSpan="2"
                    HorizontalOptions="Fill"
-                   HorizontalTextAlignment="Center"
-                   VerticalOptions="Center"/>
+                   VerticalOptions="Center">
+            </Entry>
+            
             <Button x:Name="btnClick"
                     Margin="80,180,80,10"
                     Text="SIGN IN"
